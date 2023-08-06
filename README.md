@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Amal Bentaleb 👋
 
-<!--
-**amal8bt/amal8bt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a focus on the MERN stack. 
+I love turning ideas into interactive and dynamic web applications. 
+With a strong foundation in frontend and backend technologies.
+I enjoy creating seamless user experiences and robust server-side solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind, MUI, Bootstrap 
+- Backend: Node.js, Express.js Nest.js, Python
+- Database: MongoDB, SQL
+- Version Control: Git, GitHub, Gitlab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+I'm currently deepening my understanding of backend development by learning Prisma, a modern database toolkit. 
+Excited to explore its features to streamline database management and improve data modeling in my projects.
+
+## 🌐 Personal Portfolio
+
+Check out my [portfolio website](https://amal-bentaleb.vercel.app/) to explore more of my projects, learn about my journey, and get in touch for collaboration or inquiries.
+
+## 📫 Let's Connect
+
+I'm always open to collaboration and learning new things. 
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/amal-bentaleb-266579195/) 
+or contact me directly at [bentalebamal8@gmail.com](bentalebamal8@gmail.com).
+
+Looking forward to connecting with fellow developers and building amazing projects together! 😄
